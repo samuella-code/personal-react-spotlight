@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card } from "@/components/ui/card";
-import { Mail, Github, Linkedin, Twitter } from "lucide-react";
+import { Mail, Github, Linkedin, Instagram } from "lucide-react";
 import { toast } from "sonner";
 
 const Contact = () => {
@@ -12,10 +12,10 @@ const Contact = () => {
   };
 
   const socials = [
-    { icon: Github, href: "https://github.com", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-    { icon: Mail, href: "mailto:your.email@example.com", label: "Email" }
+    { icon: Instagram, href: "https://www.instagram.com/yourgirl_samuella/?hl=en", label: "Instagram" },
+    { icon: Github, href: "https://github.com/samuella-code", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/samuella-eze-oge/", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:ezeogesamuella@gmail.com", label: "Email" }
   ];
 
   return (

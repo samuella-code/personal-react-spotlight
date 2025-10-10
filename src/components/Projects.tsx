@@ -8,27 +8,27 @@ import project3 from "@/assets/project3.jpg";
 const Projects = () => {
   const projects = [
     {
-      title: "Analytics Dashboard",
-      description: "A comprehensive analytics platform with real-time data visualization and insights",
+      title: "SweetManns Clothing Brand",
+      description: "A modern e-commerce platform for a fashion clothing brand with elegant design and smooth shopping experience",
       image: project1,
-      tags: ["React", "TypeScript", "Chart.js"],
-      github: "#",
-      live: "#"
+      tags: ["React", "Tailwind CSS", "E-commerce"],
+      github: "https://github.com/samuella-code/sweetManns-clothing-brand",
+      live: "https://sweetmanns.vercel.app/"
     },
     {
-      title: "E-Commerce Platform",
-      description: "Modern online shopping experience with seamless checkout and inventory management",
+      title: "Grandeur Sparkle Jewelry",
+      description: "Luxury jewelry brand website featuring stunning collections with sophisticated design",
       image: project2,
-      tags: ["Next.js", "Stripe", "PostgreSQL"],
-      github: "#",
-      live: "#"
+      tags: ["React", "Next.js", "UI/UX"],
+      github: "https://github.com/samuella-code/grandeur-spaekle-jewel",
+      live: "http://grandeur-spaekle.vercel.app/"
     },
     {
-      title: "Task Manager",
-      description: "Intuitive project management tool with kanban boards and team collaboration features",
+      title: "Coffee Website",
+      description: "Beautiful coffee shop website with modern design and smooth user experience",
       image: project3,
-      tags: ["React", "Node.js", "MongoDB"],
-      github: "#",
+      tags: ["React", "TypeScript", "Web Design"],
+      github: "https://github.com/samuella-code/Coffee-website",
       live: "#"
     }
   ];

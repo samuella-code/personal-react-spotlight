@@ -20,7 +20,7 @@ const Index = () => {
       <footer className="py-8 border-t border-border">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
           <p className="text-sm">
-            © {new Date().getFullYear()} Your Name. Built with React & Tailwind CSS.
+            © {new Date().getFullYear()} Samuella. Built with React & Tailwind CSS.
           </p>
         </div>
       </footer>

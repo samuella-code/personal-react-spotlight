@@ -14,14 +14,14 @@ const Hero = () => {
       <div className="container mx-auto px-4 relative z-10 animate-fade-in">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            Hi, I'm <span className="gradient-text">Your Name</span>
+            Hi, I'm <span className="gradient-text">Samuella</span>
           </h1>
           <h2 className="text-2xl md:text-4xl font-semibold text-muted-foreground mb-8">
-            Full Stack Developer & Creative Designer
+            Full Stack Developer & Fashion Model
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto">
             I craft beautiful, functional web experiences that blend innovative design with robust code. 
-            Passionate about creating digital solutions that make a difference.
+            When I'm not coding, you'll find me modeling and exploring the world of fashion.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 

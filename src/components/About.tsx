@@ -32,12 +32,12 @@ const About = () => {
             <h3 className="text-2xl font-semibold">Who I Am</h3>
             <p className="text-muted-foreground leading-relaxed">
               I'm a passionate developer with a keen eye for design and a love for creating 
-              seamless user experiences. With several years of experience in web development, 
-              I specialize in turning complex problems into elegant solutions.
+              seamless user experiences. With expertise in web development, I specialize in 
+              turning complex problems into elegant solutions.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              When I'm not coding, you'll find me exploring new technologies, contributing to 
-              open-source projects, or sharing knowledge with the developer community.
+              When I'm not coding, I'm pursuing my passion for fashion modeling, blending creativity 
+              and style in both the tech and fashion worlds.
             </p>
           </div>
           
